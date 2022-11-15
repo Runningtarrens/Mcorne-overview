@@ -55,6 +55,15 @@ This is an updated version of the legacy case. It uses the same sized magnets bu
 # Mcorne Modulus
 ![Mcorne_Modulus](https://github.com/Runningtarrens/Mcorne-overview/blob/main/pictures/20221020_153903.jpg)
 
-The Modulus was a from the bottom up new design. It uses different sized magnets that are simpler to source. This allows smaller bezels/ no bulges like the Armor. To make this Case modular, it got spilt into 3 parts instead of the typical 2 parts. Bottom, Top and Edge. The case is usabale with only the bottom and top part. The egde makes it a high edge case. That allows for some variation of the case. Use it as a low edge case( see the switches), high edge case with outwards or inwards champfer for different looks and with the ability to have utilities included in the egde part. For example a 40mm trackpad holder. This allows the case to be truly modular and add parts later to it without reprinting the whole case.
+The Modulus was a from the bottom up new design. It uses different sized magnets that are simpler to source. This allows smaller bezels/ no bulges like the Armor. To make this Case modular, it got spilt into 3 parts instead of the typical 2 parts. Bottom, Top and Edge. The case is usabale with only the bottom and top part. The egde makes it a high edge case. That allows for some variation of the case. Use it as a low edge case( see the switches), high edge case with outwards or inwards champfer for different looks and with the ability to have utilities included in the egde part. For example a 40mm trackpad holder. This allows the case to be truly modular and add parts later to it without reprinting the whole case. Because if the 3 part setup of the case, it has a very distinct look to it. It has a slot on the side where the MCU is sitting.
 
+
+# Mcorne choc
+![Mcorne_Choc](https://github.com/Runningtarrens/Mcorne-overview/blob/main/pictures/20220930_104928.jpg)
+
+This is a low profile case for the choc version of the corne. It is for only 5 columns with a 6 column version coming later too. Its made for wireless( but might work with a wired version as well, depending on the hight of the TRRS port). The case is a low edge version because there is no need of a high edge to hide the switches. Its suppost to be used with the battery stached under the MCU. the bottom case is to low to hide the battery in there. It also uses the small magnets as the Modulus.
+
+
+# Mcorne c5
+![Mcorne_c5](https://github.com/Runningtarrens/Mcorne-overview/blob/main/pictures/20221110_092837.jpg)
 

@@ -34,11 +34,18 @@ This is the Repository for a Magnetic Case family for the Corne keyboard. There 
 | Tenting  | Yes  | Yes  | Yes  | Yes  | Yes  |
 | Magnet size  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 | difficulty  | Hard  | Middle  | Middle  | Middle  | Middle  |
+| layer height  | 0.1  | 0.1  | 0.1  | 0.2  | 0.2  |
 | release  | released!  | Soon  | Soon  | Soon  | released!  |
 | Link  |[Click here]( https://github.com/Runningtarrens/Mcorne "Mcorne Legacy")  | Soon  | Soon  | Soon  | Soon  |
 
 # Mcorne Legacy
 ![Mcorne_legacy](https://github.com/Runningtarrens/Mcorne-overview/blob/main/pictures/20211104_104911.jpg)
 
+
 This is the first version of the Mcorne line up. It was made for easy access to the pcb without the need of removing any screws. It supports two tenting methodes. You can use the tenting holes, with screws or stand-offs or use the magnetic tenting. For the magnetic tenting there are magnets in the bottom of the case. This is the only case with tenting holes. Its the hardest print, because the egde of the case is so small that the tolerances for the magnet-pockets are very slim. This could result it a very hard time getting the magnets in or the pockets bulging outwards. Also the magnets used in this version are hard to find. People reported that they couldnt find the magnets anywhere. It needs 14x4x2.5mm magnets. So be aware and check local availability first. Another point that makes it hard to print is the lower edge of the case, it has a champfer on it. That creats a really nice look but its not optimal for printing because that increases the chance of warping. You need good bed adhesion.
 
+
+# Mcorne Armor
+![Mcorne_Armor](https://github.com/Runningtarrens/Mcorne-overview/blob/main/pictures/20220505_142000.jpg)
+
+This is an updated version of the legacy case. It uses the same sized magnets but now has extented pockets for them, which makes the process simple and produces less problems with tolerances. The tenting holes got removed and the champfer on the bottom of the case got replace with a widened base to decerease the chance of warping even more. That are optimizations to make the process simpler. But because of those changes the case looks more rugged. So the top champfar was changed to point inward and with the right print settings the outside of the case gets a slight rough texture. Thats how it came to its name Armor.

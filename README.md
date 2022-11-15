@@ -34,7 +34,7 @@ Feel free to join the Discord Server, if you have questions about the case or ju
 | Modular  | No  | No  | Yes  | No  | No  |
 | Travel case  | Yes  | Yes | Yes  | Yes  | Yes  |
 | Tenting  | Yes  | Yes  | Yes  | Yes  | Yes  |
-| Magnet size  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Magnet size  | (14x4x2.5) mm  | (14x4x2.5) mm  | (10x2x2) mm  | (10x2x2) mm   | (10x2x2) mm   |
 | difficulty  | Hard  | Middle  | Middle  | Middle  | Middle  |
 | layer height  | 0.1  | 0.1  | 0.1  | 0.2  | 0.2  |
 | release  | released!  | Soon  | Soon  | Soon  | released!  |

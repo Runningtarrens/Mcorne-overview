@@ -24,7 +24,7 @@ This is the Repository for a Magnetic Case family for the Corne keyboard. There 
 
 | Properties | Mcorne legacy  | Mcorne Armor| Mcorne Modulus  | Mcorne choc | Mcorne c5 |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | ![28816_Mcorne_Banner](https://user-images.githubusercontent.com/65970993/142192291-f98b4d5c-05fb-46df-812c-ea15619faf7e.jpg)  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |

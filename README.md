@@ -37,6 +37,7 @@ Feel free to join the Discord Server, if you have questions about the case or ju
 | Magnet size  | (14x4x2.5) mm  | (14x4x2.5) mm  | (10x2x2) mm  | (10x2x2) mm   | (10x2x2) mm   |
 | difficulty  | Hard  | Middle  | Middle  | Middle  | Middle  |
 | layer height  | 0.1  | 0.1  | 0.1  | 0.2  | 0.2  |
+| Underglow  | Yes  | Yes  | Yes  | No  | No  |
 | release  | released!  | Soon  | Soon  | Soon  | released!  |
 | Link  |[Click here]( https://github.com/Runningtarrens/Mcorne "Mcorne Legacy")  | Soon  | Soon  | Soon  | [Click here]( https://github.com/Runningtarrens/Mcorne-c5 "Mcorne c5")  |
 

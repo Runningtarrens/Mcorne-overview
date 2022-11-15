@@ -19,6 +19,8 @@ Content:
 
 This is the Repository for a Magnetic Case family for the Corne keyboard. There are 5 different version, so its easy to lose track of all the different versions or even to find the rigth one for your Corne and intented use case. So here is a overview with a quick summary of the features of the different cases and links to the different repositories. 
 
+Feel free to join the Discord Server, if you have questions about the case or just want to have a chat: https://discord.gg/TRQFN7fyU5
+
 
 # Case Matrix
 
@@ -36,7 +38,7 @@ This is the Repository for a Magnetic Case family for the Corne keyboard. There 
 | difficulty  | Hard  | Middle  | Middle  | Middle  | Middle  |
 | layer height  | 0.1  | 0.1  | 0.1  | 0.2  | 0.2  |
 | release  | released!  | Soon  | Soon  | Soon  | released!  |
-| Link  |[Click here]( https://github.com/Runningtarrens/Mcorne "Mcorne Legacy")  | Soon  | Soon  | Soon  | Soon  |
+| Link  |[Click here]( https://github.com/Runningtarrens/Mcorne "Mcorne Legacy")  | Soon  | Soon  | Soon  | [Click here]( https://github.com/Runningtarrens/Mcorne-c5 "Mcorne Legacy")  |
 
 # Mcorne Legacy
 ![Mcorne_legacy](https://github.com/Runningtarrens/Mcorne-overview/blob/main/pictures/20211104_104911.jpg)

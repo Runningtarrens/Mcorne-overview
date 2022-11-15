@@ -18,7 +18,8 @@ Content:
 # Preface
 
 This is the Repository for a Magnetic Case family for the Corne keyboard. There are 5 different version, so its easy to lose track of all the different versions or even to find the rigth one for your Corne and intented use case. So here is a overview with a quick summary of the features of the different cases and links to the different repositories.
-### Disclaimer: To be able to print these cases you need an FDM printer, SLS or Resin printers wont work. Also your Printer firmware needs to support the pause feature to allow you to place the magnets in the pockets of the case.
+
+### Disclaimer: To be able to print these cases you need a FDM printer. SLS or Resin printers wont work. Also your Printer firmware needs to support the pause feature to allow you to place the magnets in the pockets of the case.
 
 If you build a lot of keyboards or repair them, you know the hassle of having to open the cases, screw/ unscrew and taking apart the whole thing everytime you need to reflow a solder point, an led or maybe even just reset the MCU. Also for any corne build youll need to have about 20 screws and 5 standoffs per half to just keep the halfs together. With the Mcorne you dont need to unscrew anything to access the PCB or any screw or standoff to use this case. The Case supports magnetic tenting legs and provides tenting holes for other tenting methods.
 

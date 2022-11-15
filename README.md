@@ -25,16 +25,17 @@ This is the Repository for a Magnetic Case family for the Corne keyboard. There 
 | Properties | Mcorne legacy  | Mcorne Armor| Mcorne Modulus  | Mcorne Choc | Mcorne c5 |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 |  | ![Mcorne_legacy](https://github.com/Runningtarrens/Mcorne-overview/blob/main/pictures/20211104_104911.jpg)  | ![Mcorne_Armor](https://github.com/Runningtarrens/Mcorne-overview/blob/main/pictures/20220505_142000.jpg)  | ![Mcorne_Modulus](https://github.com/Runningtarrens/Mcorne-overview/blob/main/pictures/20221020_153903.jpg)  | ![Mcorne_Choc](https://github.com/Runningtarrens/Mcorne-overview/blob/main/pictures/20220930_104928.jpg)  | ![Mcorne_c5](https://github.com/Runningtarrens/Mcorne-overview/blob/main/pictures/20221110_092837.jpg)  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-
-
-
+| Wired/wireless  | Wired  | Wired  | Wired  | Wireless  | Wireless  |
+| Switches | MX  | MX  | MX  | Choc  | MX  |
+| columns | 6  | 6  | 6 | 5  | 5  |
+| low/high case  | High  | High  | High and Low  | Low | Low  |
+| Modular  | No  | No  | Yes  | No  | No  |
+| Travel case  | Yesl  | Yes | Yes  | Yes  | Yes  |
+| Tenting  | Yes  | Yes  | Yes  | Yes  | Yes  |
+| Magnet size  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| difficulty  | Hard  | Middle  | Middle  | Middle  | Middle  |
+| release  | released!  | Soon  | Soon  | Soon  | released!  |
+| Link  |  https://github.com/Runningtarrens/Mcorne | Soon  | Soon  | Soon  | Soon  |
 
 
 

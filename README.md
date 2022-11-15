@@ -38,7 +38,7 @@ Feel free to join the Discord Server, if you have questions about the case or ju
 | difficulty  | Hard  | Middle  | Middle  | Middle  | Middle  |
 | layer height  | 0.1  | 0.1  | 0.1  | 0.2  | 0.2  |
 | release  | released!  | Soon  | Soon  | Soon  | released!  |
-| Link  |[Click here]( https://github.com/Runningtarrens/Mcorne "Mcorne Legacy")  | Soon  | Soon  | Soon  | [Click here]( https://github.com/Runningtarrens/Mcorne-c5 "Mcorne Legacy")  |
+| Link  |[Click here]( https://github.com/Runningtarrens/Mcorne "Mcorne Legacy")  | Soon  | Soon  | Soon  | [Click here]( https://github.com/Runningtarrens/Mcorne-c5 "Mcorne c5")  |
 
 # Mcorne Legacy
 ![Mcorne_legacy](https://github.com/Runningtarrens/Mcorne-overview/blob/main/pictures/20211104_104911.jpg)

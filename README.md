@@ -67,3 +67,5 @@ This is a low profile case for the choc version of the corne. It is for only 5 c
 # Mcorne c5
 ![Mcorne_c5](https://github.com/Runningtarrens/Mcorne-overview/blob/main/pictures/20221110_092837.jpg)
 
+The c5 is a MX case for 5 columns. It was designed for wireless use with the new (still experimental) ultralight PCBs from [Pete johanson.]( [https://github.com/Runningtarrens/Mcorne](https://github.com/petejohanson/crkbd/tree/board/corne-ultralight) "Corne Ultralight") It has no port for the TRRS connector only a little slot for the power button. The bottom part was designed that the battery can be stored in it instead of the usual place under the MCU. That will allow to but bigger batteries in the bottom as well. Also it has enough clearance to have the JST connector for the battery on the undersite of the pcb, allowing a super clean setup. That comes at a cost, the case is not as flat as the choc version. The c5 is the only case that uses different tenting feet that can be attached to the case for transport( as seen on the image).
+

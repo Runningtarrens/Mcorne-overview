@@ -49,3 +49,12 @@ This is the first version of the Mcorne line up. It was made for easy access to 
 ![Mcorne_Armor](https://github.com/Runningtarrens/Mcorne-overview/blob/main/pictures/20220505_142000.jpg)
 
 This is an updated version of the legacy case. It uses the same sized magnets but now has extented pockets for them, which makes the process simple and produces less problems with tolerances. The tenting holes got removed and the champfer on the bottom of the case got replace with a widened base to decerease the chance of warping even more. That are optimizations to make the process simpler. But because of those changes the case looks more rugged. So the top champfar was changed to point inward and with the right print settings the outside of the case gets a slight rough texture. Thats how it came to its name Armor.
+
+
+
+# Mcorne Modulus
+![Mcorne_Modulus](https://github.com/Runningtarrens/Mcorne-overview/blob/main/pictures/20221020_153903.jpg)
+
+The Modulus was a from the bottom up new design. It uses different sized magnets that are simpler to source. This allows smaller bezels/ no bulges like the Armor. To make this Case modular, it got spilt into 3 parts instead of the typical 2 parts. Bottom, Top and Edge. The case is usabale with only the bottom and top part. The egde makes it a high edge case. That allows for some variation of the case. Use it as a low edge case( see the switches), high edge case with outwards or inwards champfer for different looks and with the ability to have utilities included in the egde part. For example a 40mm trackpad holder. This allows the case to be truly modular and add parts later to it without reprinting the whole case.
+
+
